@@ -3,3 +3,8 @@ Flask-Cors
 Flask-SQLAlchemy
 Flask-Bcrypt
 PyJWT
+openai-whisper
+joblib
+scikit-learn
+numpy
+pandas
